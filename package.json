@@ -28,7 +28,9 @@
   },
   "keywords": [
     "vue",
-    "storybook"
+    "storybook",
+    "storybook-addon",
+    "organize"
   ],
   "author": "pocka",
   "license": "MIT",
@@ -112,5 +114,8 @@
     "vue-docgen-api": "^3.11.4",
     "vue-template-compiler": "^2.5.16",
     "vuera": "^0.2.3"
+  },
+  "storybook": {
+    "displayName": "Vue info"
   }
 }
